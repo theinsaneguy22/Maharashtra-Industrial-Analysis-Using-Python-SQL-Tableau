@@ -1,11 +1,11 @@
-#Maharashtra-Industrial-Analysis-Using-Python-SQL-Tableau
+# Maharashtra-Industrial-Analysis-Using-Python-SQL-Tableau
 
 A beginner-friendly data analytics project that analyzes industrial zones of Maharashtra using Python, Pandas, MySQL, and Tableau.
 The project demonstrates how raw industrial business data can be cleaned, transformed, analyzed, and visualized to generate meaningful insights about industrial distribution, city-wise business growth, and revenue contribution across industrial zones.
 
 This project focuses on industrial turnover analysis, business size classification, city-wise revenue contribution, and data-driven visualization dashboards using Tableau.
 
-#Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -14,7 +14,7 @@ This project focuses on industrial turnover analysis, business size classificati
 - Tableau
 - Excel / CSV Dataset
 
-#Flow of Project
+# Flow of Project
 Raw Industrial Excel Data
 
 Data Cleaning & Preparation (Pandas) -> Feature Engineering -> Business Analytics & Aggregations -> Data Visualization (Matplotlib) -> Data Storage in MySQL -> Data Export from MySQL -> Tableau Dashboard Creation -> Industrial Business Insight Reporting
