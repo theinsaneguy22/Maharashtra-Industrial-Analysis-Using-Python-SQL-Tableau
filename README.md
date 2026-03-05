@@ -20,7 +20,7 @@ Raw Industrial Excel Data
 Data Cleaning & Preparation (Pandas) -> Feature Engineering -> Business Analytics & Aggregations -> Data Visualization (Matplotlib) -> Data Storage in MySQL -> Data Export from MySQL -> Tableau Dashboard Creation -> Industrial Business Insight Reporting
 
 # Project Features
-1. Data Extraction
+## 1. Data Extraction
 - Imported industrial zone dataset from Excel file
 - Dataset includes:
   - Industrial Area / MIDC Zones
@@ -29,13 +29,13 @@ Data Cleaning & Preparation (Pandas) -> Feature Engineering -> Business Analytic
   - Number of Companies
   - Estimated Annual Turnover
 
-2. Data Cleaning & Preparation
+## 2. Data Cleaning & Preparation
 - Removed duplicate records
 - Cleaned currency formatting from turnover column
 - Converted turnover values into numeric format
 
 
-3. Feature Engineering
+## 3. Feature Engineering
 - Turnover Conversion
 - Profit Estimation
 - Business Size Classification
@@ -46,29 +46,29 @@ Data Cleaning & Preparation (Pandas) -> Feature Engineering -> Business Analytic
 - Industrial Zone Ranking
 
 
-4. Business Analytics
+## 4. Business Analytics
 - City-wise Business Analysis
 - Industry Type Analysis
 - Top Industrial Zones
 - Identified Top 5 industrial zones based on turnover.
 
 
-5. Data Visualization (Matplotlib)
+## 5. Data Visualization (Matplotlib)
 - Industrial Area Turnover Chart
 - City-wise Business Distribution
 - Business Size Distribution
 
-6. MySQL Database Integration
+## 6. MySQL Database Integration
 - Cleaned dataset was loaded into a MySQL database.
 - Created table:
   - industries
 - This step demonstrates ETL pipeline integration with relational databases.
 
-7. Data Export for Visualization Tools
+## 7. Data Export for Visualization Tools
 - The MySQL dataset was exported to CSV format for use in Tableau dashboards.
 - Exported dataset includes all engineered columns for advanced analysis.
 
-8. Tableau Dashboard Integration
+## 8. Tableau Dashboard Integration
 - The processed dataset was imported into Tableau to build interactive dashboards.
 - Visualizations created include:
   - MIDC Industrial Distribution
@@ -76,7 +76,7 @@ Data Cleaning & Preparation (Pandas) -> Feature Engineering -> Business Analytic
   - Business Size Distribution
   - Industrial Performance Dashboard
 
-9. Insight Generation
+## 9. Insight Generation
 
 - The analysis provided insights such as:
   - Which cities dominate industrial business
