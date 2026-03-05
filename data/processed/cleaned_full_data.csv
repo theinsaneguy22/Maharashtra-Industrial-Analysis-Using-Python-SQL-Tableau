@@ -1,0 +1,17 @@
+Industrial_Area,City/District,Industry_Type,Number_of_Companies,Estimated_Annual_Turnover_INR,Turnover_in_Crores,Estimated_Profit_Cr,Business_Size,Zone_Rank
+Lote-Parshuram ,Ratnagiri,Chemicals & Petrochemicals,220.0,120000000000.0,12000.0,2160.0,Medium,10.0
+Ranjangaon MIDC,Pune,Automobile & Engineering,340.0,245000000000.0,24500.0,4410.0,Large,2.0
+Malegaon MIDC,Nashik,Manufacturing & Textiles,150.0,78000000000.0,7800.0,1404.0,Small,13.0
+Patalganga Industrial Area,Raigad,Chemicals & Consumer Goods,180.0,112000000000.0,11200.0,2016.0,Medium,11.0
+Sanaswadi-Shikrapur MIDC,Pune,Mixed Manufacturing,260.0,160000000000.0,16000.0,2880.0,Medium,8.5
+Chakan MIDC ,Pune,Automobile & Auto Ancillaries,480.0,310000000000.0,31000.0,5580.0,Large,1.0
+Talegaon MIDC,Pune,Pharma & Engineering,,195000000000.0,19500.0,3510.0,Medium,5.0
+Butibori MIDC,Nagpur,Heavy Engineering & Metals,280.0,175000000000.0,17500.0,3150.0,Medium,7.0
+Hingna MIDC,Nagpur,Metals & Engineering,240.0,160000000000.0,16000.0,2880.0,Medium,8.5
+Ambad MIDC,Nashik,Mixed Industries,320.0,210000000000.0,21000.0,3780.0,Large,4.0
+Satpur MIDC,Nashik,Manufacturing & Industrial Services,290.0,185000000000.0,18500.0,3330.0,Medium,6.0
+TTC Industrial Area,Thane,Electronics & Logistics,200.0,98000000000.0,9800.0,1764.0,Small,12.0
+Mahape Industrial Area,Navi Mumbai,IT & Electronics,260.0,230000000000.0,23000.0,4140.0,Large,3.0
+Kupwada Industrial Area,Thane,Textiles & Small-Scale Manufacturing,180.0,67000000000.0,6700.0,1206.0,Small,14.0
+Dharavi Industrial Area,Mumbai,Leather & Garments,150.0,58000000000.0,5800.0,1044.0,Small,15.0
+Unknown Zone,,Unknown Industry,,50000000000.0,5000.0,900.0,Small,16.0

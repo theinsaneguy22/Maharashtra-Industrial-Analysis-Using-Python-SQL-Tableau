@@ -1,0 +1,6 @@
+Industrial_Area,City/District,Industry_Type,Number_of_Companies,Estimated_Annual_Turnover_INR,Turnover_in_Crores,Estimated_Profit_Cr,Business_Size,Zone_Rank
+Chakan MIDC ,Pune,Automobile & Auto Ancillaries,480.0,310000000000.0,31000.0,5580.0,Large,1.0
+Ranjangaon MIDC,Pune,Automobile & Engineering,340.0,245000000000.0,24500.0,4410.0,Large,2.0
+Mahape Industrial Area,Navi Mumbai,IT & Electronics,260.0,230000000000.0,23000.0,4140.0,Large,3.0
+Ambad MIDC,Nashik,Mixed Industries,320.0,210000000000.0,21000.0,3780.0,Large,4.0
+Talegaon MIDC,Pune,Pharma & Engineering,,195000000000.0,19500.0,3510.0,Medium,5.0
